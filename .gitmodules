@@ -1,0 +1,6 @@
+[submodule "celllens"]
+	path = celllens
+	url = https://github.com/sggao/celllens.git
+[submodule "SpatialEx"]
+	path = SpatialEx
+	url = https://github.com/KEAML-JLU/SpatialEx.git
